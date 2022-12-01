@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: e9f55cc1f52600946877ca2c27c03086
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 149108556475543346
+    second: Grass stump_0
+  - first:
+      213: 8249784607814622801
+    second: Grass stump_1
+  - first:
+      213: 425036900469586588
+    second: Grass stump_2
+  - first:
+      213: -2284672021336407241
+    second: Grass stump_3
+  - first:
+      213: -4316515004644842595
+    second: Grass stump_4
+  - first:
+      213: -6803346281279455936
+    second: Grass stump_5
+  - first:
+      213: 8478389297176228906
+    second: Grass stump_6
+  - first:
+      213: -6784374394551106436
+    second: Grass stump_7
+  - first:
+      213: 794188627507392752
+    second: Grass stump_8
+  - first:
+      213: 9095413437221601126
+    second: Grass stump_9
+  - first:
+      213: -7643134714662279952
+    second: Grass stump_10
+  - first:
+      213: -1194251716206533116
+    second: Grass stump_11
+  - first:
+      213: 697181848926633817
+    second: Grass stump_12
+  - first:
+      213: -8581288492948356278
+    second: Grass stump_13
+  - first:
+      213: 9214368397942510637
+    second: Grass stump_14
+  - first:
+      213: 2290953368548735630
+    second: Grass stump_15
+  - first:
+      213: 2546751570657889830
+    second: Grass stump_16
+  - first:
+      213: 4693296387847363295
+    second: Grass stump_17
+  - first:
+      213: -2131138859617150099
+    second: Grass stump_18
+  - first:
+      213: -6586671943050338398
+    second: Grass stump_19
+  - first:
+      213: -3924767308536419220
+    second: Grass stump_20
+  - first:
+      213: -6208953513120689231
+    second: Grass stump_21
+  - first:
+      213: -1264800561584458337
+    second: Grass stump_22
+  - first:
+      213: 9219243276998220241
+    second: Grass stump_23
+  - first:
+      213: 2570451503957824900
+    second: Grass stump_24
+  - first:
+      213: 4718963267021420982
+    second: Grass stump_25
+  - first:
+      213: 1738577424316363024
+    second: Grass stump_26
+  - first:
+      213: -9045194585986634311
+    second: Grass stump_27
+  - first:
+      213: -6083924881520216140
+    second: Grass stump_28
+  - first:
+      213: -7584465046752842955
+    second: Grass stump_29
+  - first:
+      213: 476779139201536331
+    second: Grass stump_30
+  - first:
+      213: 33885391759790057
+    second: Grass stump_31
+  - first:
+      213: 3113148621051637133
+    second: Grass stump_32
+  - first:
+      213: 4714451106906113041
+    second: Grass stump_33
+  - first:
+      213: -8952036474789124608
+    second: Grass stump_34
+  - first:
+      213: 2500884799795884440
+    second: Grass stump_35
+  - first:
+      213: -8273549686943009860
+    second: Grass stump_36
+  - first:
+      213: 623266722788767724
+    second: Grass stump_37
+  - first:
+      213: 2397036679437961903
+    second: Grass stump_38
+  - first:
+      213: -6672361106071392440
+    second: Grass stump_39
+  - first:
+      213: -3186198145671869617
+    second: Grass stump_40
+  - first:
+      213: -8222684338094091821
+    second: Grass stump_41
+  - first:
+      213: 2798695079518311561
+    second: Grass stump_42
+  - first:
+      213: 2573477769833610931
+    second: Grass stump_43
+  - first:
+      213: 3878925139451689088
+    second: Grass stump_44
+  - first:
+      213: 2949575719683561021
+    second: Grass stump_45
+  - first:
+      213: -7589835263728958459
+    second: Grass stump_46
+  - first:
+      213: 7393072184955553421
+    second: Grass stump_47
+  - first:
+      213: -6919951769170394455
+    second: Grass stump_48
+  - first:
+      213: 6964996104876205501
+    second: Grass stump_49
+  - first:
+      213: -6269121397902069294
+    second: Grass stump_50
+  - first:
+      213: 2882642844157309335
+    second: Grass stump_51
+  - first:
+      213: 6746514708094135259
+    second: Grass stump_52
+  - first:
+      213: -4978370337453326743
+    second: Grass stump_53
+  - first:
+      213: -8160554365469290890
+    second: Grass stump_54
+  - first:
+      213: -5821622575575137248
+    second: Grass stump_55
+  - first:
+      213: -4020412975107277539
+    second: Grass stump_56
+  - first:
+      213: -2118947338183094411
+    second: Grass stump_57
+  - first:
+      213: -6207339811354138574
+    second: Grass stump_58
+  - first:
+      213: 4058026432698589037
+    second: Grass stump_59
+  - first:
+      213: -5129948971327214107
+    second: Grass stump_60
+  - first:
+      213: -3978104868590705666
+    second: Grass stump_61
+  - first:
+      213: -2084431568854618395
+    second: Grass stump_62
+  - first:
+      213: 3014123647523523874
+    second: Grass stump_63
+  - first:
+      213: 8630871319448670133
+    second: Grass stump_64
+  - first:
+      213: -2492201224189942201
+    second: Grass stump_65
+  - first:
+      213: -6926238440680568205
+    second: Grass stump_66
+  - first:
+      213: 6892334430719569145
+    second: Grass stump_67
+  - first:
+      213: 6052771907262458923
+    second: Grass stump_68
+  - first:
+      213: 5426794508519555413
+    second: Grass stump_69
+  - first:
+      213: -9176853806606845053
+    second: Grass stump_70
+  - first:
+      213: -5238155095182446643
+    second: Grass stump_71
+  - first:
+      213: 771253166821299424
+    second: Grass stump_72
+  - first:
+      213: -8957026563721913942
+    second: Grass stump_73
+  - first:
+      213: 5159896580530592728
+    second: Grass stump_74
+  - first:
+      213: -1871222821608454028
+    second: Grass stump_75
+  - first:
+      213: 1545036148839734421
+    second: Grass stump_76
+  - first:
+      213: 1185432144667828722
+    second: Grass stump_77
+  - first:
+      213: 3517053799098221758
+    second: Grass stump_78
+  - first:
+      213: 2062533847356016386
+    second: Grass stump_79
+  - first:
+      213: 3619135607874163174
+    second: Grass stump_80
+  - first:
+      213: -2376066986470355821
+    second: Grass stump_81
+  - first:
+      213: 4193049901597997118
+    second: Grass stump_82
+  - first:
+      213: 1539125159263790446
+    second: Grass stump_83
+  - first:
+      213: -8368526030485682236
+    second: Grass stump_84
+  - first:
+      213: -5268242362671205155
+    second: Grass stump_85
+  - first:
+      213: 3473663650058672966
+    second: Grass stump_86
+  - first:
+      213: 4271467089492689215
+    second: Grass stump_87
+  - first:
+      213: -6388370482203566639
+    second: Grass stump_88
+  - first:
+      213: -2813300734809029094
+    second: Grass stump_89
+  - first:
+      213: 4773142431661787114
+    second: Grass stump_90
+  - first:
+      213: 4381483414177866285
+    second: Grass stump_91
+  - first:
+      213: 1884594415457323621
+    second: Grass stump_92
+  - first:
+      213: -9201249936505023024
+    second: Grass stump_93
+  - first:
+      213: -3004871172597352677
+    second: Grass stump_94
+  - first:
+      213: 6018394200132826492
+    second: Grass stump_95
+  - first:
+      213: -6492555270979459948
+    second: Grass stump_96
+  - first:
+      213: -3975056207322504583
+    second: Grass stump_97
+  - first:
+      213: 5515462185815083537
+    second: Grass stump_98
+  - first:
+      213: 4603157517014903824
+    second: Grass stump_99
+  - first:
+      213: 4717486066687567385
+    second: Grass stump_100
+  - first:
+      213: 8647900419151958077
+    second: Grass stump_101
+  - first:
+      213: -4540241538167773513
+    second: Grass stump_102
+  - first:
+      213: -5142993084974065087
+    second: Grass stump_103
+  - first:
+      213: -6567126056792852044
+    second: Grass stump_104
+  - first:
+      213: -4800312299297171963
+    second: Grass stump_105
+  - first:
+      213: 7999874427790527198
+    second: Grass stump_106
+  - first:
+      213: -4938625582264777084
+    second: Grass stump_107
+  - first:
+      213: 4813564920154632515
+    second: Grass stump_108
+  - first:
+      213: 4174584169880381364
+    second: Grass stump_109
+  - first:
+      213: -1266174218456491519
+    second: Grass stump_110
+  - first:
+      213: 2446243682202058869
+    second: Grass stump_111
+  - first:
+      213: 3629877166250712589
+    second: Grass stump_112
+  - first:
+      213: -7429487363233692556
+    second: Grass stump_113
+  - first:
+      213: -6765805383644955188
+    second: Grass stump_114
+  - first:
+      213: -1959089952507365256
+    second: Grass stump_115
+  - first:
+      213: 2168618114387230980
+    second: Grass stump_116
+  - first:
+      213: 3486777347935350015
+    second: Grass stump_117
+  - first:
+      213: 4243424331511142431
+    second: Grass stump_118
+  - first:
+      213: 3542080317929736854
+    second: Grass stump_119
+  - first:
+      213: 6735367927339596307
+    second: Grass stump_120
+  - first:
+      213: -2295390999587936745
+    second: Grass stump_121
+  - first:
+      213: -363937212501908215
+    second: Grass stump_122
+  - first:
+      213: 1845231409123699683
+    second: Grass stump_123
+  - first:
+      213: -154264961675475300
+    second: Grass stump_124
+  - first:
+      213: 6506096344508715924
+    second: Grass stump_125
+  - first:
+      213: 5872857893233569279
+    second: Grass stump_126
+  - first:
+      213: 5161839389231665935
+    second: Grass stump_127
+  - first:
+      213: 898268344958992744
+    second: Grass stump_128
+  - first:
+      213: 2310249301380843633
+    second: Grass stump_129
+  - first:
+      213: 5290603563834148988
+    second: Grass stump_130
+  - first:
+      213: 3860997114647812195
+    second: Grass stump_131
+  - first:
+      213: -8891200502451112807
+    second: Grass stump_132
+  - first:
+      213: -1573912490360694417
+    second: Grass stump_133
+  - first:
+      213: 8804562839235534992
+    second: Grass stump_134
+  - first:
+      213: 7891772870822534144
+    second: Grass stump_135
+  - first:
+      213: -1787504187128784875
+    second: Grass stump_136
+  - first:
+      213: -4373446038648901350
+    second: Grass stump_137
+  - first:
+      213: -8089589648489760067
+    second: Grass stump_138
+  - first:
+      213: 5147917505521003328
+    second: Grass stump_139
+  - first:
+      213: 2706950892818623401
+    second: Grass stump_140
+  - first:
+      213: 6380867648280020214
+    second: Grass stump_141
+  - first:
+      213: -4888690220774109897
+    second: Grass stump_142
+  - first:
+      213: 56758069988779921
+    second: Grass stump_143
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grass stump_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a3cec1fc806e500800000000000000
+      internalID: 425036900469586588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass stump_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73348fbb6e63b40e0800000000000000
+      internalID: -2284672021336407241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass stump_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 14
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9320802978a814c0800000000000000
+      internalID: -4316515004644842595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass stump_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 14
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0bb335956850b00800000000000000
+      internalID: 794188627507392752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
