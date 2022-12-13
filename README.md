@@ -5,10 +5,9 @@ Made during spring of 2021 as a project for IT class, and to learn the basics of
 
 # Requirements
 * Unity 2020.3.0f1
-* Some version of the unity package that lets you paint sprites on a tilemap iirc
 
 # To install
-This is the Assets folder of the Unity project. Try making a unity project and drag and drop this repository into the asset folder and hope it works out of the box? Never done this sort of thing before so good luck. (Why are you trying to run this anyway)
+This is the Assets folder of the Unity project. Make an empty unity project, and copy this repositury into the asset folder. Then move the `ProjectSettings` folder to the root of the unity project (overwriting the folder already there with the same name)
 
 # To run
 Click the play buttin in unity editor. 
